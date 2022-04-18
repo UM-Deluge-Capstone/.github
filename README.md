@@ -5,11 +5,11 @@ University of Michigan <br>
 Taubman College of Architecture and Urban Planning<br>
 URP603 Capstone / Winter 2022 
 
-In Collaboration with the National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii
+In Collaboration with the *National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii*
 
 <hr>
 
-<img src="assets/timeline.png" alt="Timeline of our Intervention" width=500>
+<img src="assets/timeline.png" alt="Timeline of our Intervention" width=640>
 
 
 ## About the Course
@@ -24,5 +24,5 @@ We note that students can shape these deliverables beyond a traditional report, 
 
 <hr>
 
-<img src="assets/taubman-logo.png" alt="UM Taubman College Logo" width=350>
+<img src="assets/taubman-logo.png" alt="UM Taubman College Logo" width=300>
 
