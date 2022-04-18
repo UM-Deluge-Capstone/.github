@@ -1,5 +1,5 @@
 # After the Deluge* Capstone
-_*of Water, of Data_ <br>
+_*of Water, of Data._ <br>
 
 University of Michigan <br>
 Taubman College of Architecture and Urban Planning<br>
@@ -23,3 +23,5 @@ The following are potential outcomes of the student-led investigation.
 We note that students can shape these deliverables beyond a traditional report, with an effort to make them relevant and open to a variety of constituents... Including you here at our Github. 
 
 ---
+
+
