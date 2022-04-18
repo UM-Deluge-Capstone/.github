@@ -24,5 +24,5 @@ We note that students can shape these deliverables beyond a traditional report, 
 
 <hr>
 
-![Taubman College Logo](assets/taubman-logo.png)
+![Taubman College Logo](assets/taubman-logo.png  | width=350)
 
