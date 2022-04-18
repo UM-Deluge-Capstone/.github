@@ -9,7 +9,7 @@ In Collaboration with the National Disaster Preparedness Training Center (NDPTC)
 
 ---
 
-![Timeline of our Intervention](timeline.png)
+![Timeline of our Intervention](assets/timeline.png)
 
 
 ## About the Course
