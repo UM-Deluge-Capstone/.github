@@ -9,7 +9,7 @@ In Collaboration with the National Disaster Preparedness Training Center (NDPTC)
 
 <hr>
 
-![Timeline of our Intervention](assets/timeline.png)
+<img src="assets/timeline.png" alt="Timeline of our Intervention" width=500>
 
 
 ## About the Course
@@ -24,5 +24,5 @@ We note that students can shape these deliverables beyond a traditional report, 
 
 <hr>
 
-![Taubman College Logo](assets/taubman-logo.png  | width=350)
+<img src="assets/taubman-logo.png" alt="UM Taubman College Logo" width=350>
 
