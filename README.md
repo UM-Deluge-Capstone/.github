@@ -1,11 +1,11 @@
 # After the Deluge* Capstone
-_*of Water, of Data._ <br>
+### _*of Water, of Data._ <br>
 
 University of Michigan <br>
 Taubman College of Architecture and Urban Planning<br>
 URP603 Capstone / Winter 2022 
 
-In Collaboration with the *National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii*
+In Collaboration with the **National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii**
 
 <hr>
 
