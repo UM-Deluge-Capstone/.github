@@ -7,7 +7,7 @@ URP603 Capstone / Winter 2022
 
 In Collaboration with the National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii
 
----
+<hr>
 
 ![Timeline of our Intervention](assets/timeline.png)
 
@@ -22,6 +22,7 @@ The following are potential outcomes of the student-led investigation.
 
 We note that students can shape these deliverables beyond a traditional report, with an effort to make them relevant and open to a variety of constituents... Including you here at our Github. 
 
----
+<hr>
 
+![Taubman College Logo](assets/taubman-logo.png)
 
