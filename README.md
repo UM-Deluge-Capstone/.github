@@ -1,5 +1,11 @@
-# After the Deluge* Capstone
-### _*of Water, of Data._ <br>
+## After the Deluge* Capstone<br>
+
+<p> 
+  
+**_*of Water, of Data._** <br>
+
+<br>
+<br>
 
 University of Michigan <br>
 Taubman College of Architecture and Urban Planning<br>
@@ -11,6 +17,8 @@ In Collaboration with the **National Disaster Preparedness Training Center (NDPT
 
 <img src="assets/timeline.png" alt="Timeline of our Intervention" width=640>
 
+<br>
+<br>
 
 ## About the Course
 This capstone at the University of Michigan will be in collaboration with the *National Disaster Preparedness Training Center (NDPTC)*. This organization works directly with responders, recovery experts, and all levels of government in addressing natural hazards, coastal communities, and the special needs and opportunities of islands and territories. Through this collaboration, we will be using the recovery planning after Hurricane Ida as a case study for our work, focusing on the low parishes of Louisiana in the wake of Hurricane Ida in 2021. 
@@ -22,7 +30,11 @@ The following are potential outcomes of the student-led investigation.
 
 We note that students can shape these deliverables beyond a traditional report, with an effort to make them relevant and open to a variety of constituents... Including you here at our Github. 
 
+<br>
+
 <hr>
+
+<br>
 
 <img src="assets/taubman-logo.png" alt="UM Taubman College Logo" width=300>
 
