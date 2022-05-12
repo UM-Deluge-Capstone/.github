@@ -36,5 +36,5 @@ We note that students can shape these deliverables beyond a traditional report, 
 
 <br>
 
-<img src="assets/taubman-logo.png" alt="UM Taubman College Logo" width=300>
+<img src="https://github.com/UM-Deluge-Capstone/.github/blob/main/assets/taubman-logo.png" alt="UM Taubman College Logo" width=300>
 
