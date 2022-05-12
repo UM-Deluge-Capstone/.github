@@ -13,7 +13,6 @@ URP603 Capstone / Winter 2022
 
 In Collaboration with the **National Disaster Preparedness Training Center (NDPTC) at the University of Hawaii**
 
-<hr>
 
 ## About the Repositories
 
