@@ -15,7 +15,9 @@ In Collaboration with the **National Disaster Preparedness Training Center (NDPT
 
 <hr>
 
-<img src="assets/timeline.png" alt="Timeline of our Intervention" width=640>
+## About the Repositories
+
+For this project, two respositories have been created. The first is an annotated image dataset that disaster recovery planners and researchers can use to better train computer vision models based on FEMA disaster guidelines. The second offers a hands-on tutorial or planners and professionals wanting to adopt machine learning in to their practices. 
 
 <br>
 <br>
